@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">2babelDictionary</string>
+    <string name="txt_company_log">2babel</string>
+    <string name="txt_transfer">transfer</string>
+    <string name="txt_help">help</string>
+    <string name="btn_voice">Voice</string>
+    <string name="btn_setting">Setting</string>
+</resources>
